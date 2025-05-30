@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Serveur Discord de support
+    url: https://discord.gg/cybercompanion
+    about: Pour toute question ou aide immédiate, rejoignez notre serveur Discord.
+  - name: Documentation
+    url: https://cybercompanion.fr/documentation
+    about: Consultez notre documentation complète pour trouver des réponses à vos questions.
+  - name: FAQ
+    url: https://cybercompanion.fr/faq
+    about: Consultez notre FAQ qui pourrait déjà contenir la réponse à votre question.

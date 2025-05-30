@@ -1,14 +1,35 @@
-## 👋 Welcome
+# 🛠️ CyberCompanion - Signalement de problèmes
 
-We attach great importance to a smooth and error-free use of our service. That is why we are happy to hear from anyone who draws our attention to errors and bugs.<br />
-Even if you are not sure whether a certain thing should be like this or not, we would like you to inform us about it in order to solve the problem.<br />
-Please try to explain the error as accurately as possible, thank you.
+## 👋 Bienvenue
 
-## ⚠️ What we need from you
-- Where the error occurs.
-- How to reproduce it.
-- What happens.
-- What should actually happen.
-<br />
+Nous attachons une grande importance à une utilisation fluide et sans erreur de nos services. C'est pourquoi nous sommes heureux d'entendre toute personne qui attire notre attention sur des erreurs et des bugs.
 
-Click [here](https://github.com/CyberCompanion/issues/issues/new) to open a new issue. <br />
+Même si vous n'êtes pas certain qu'un problème spécifique soit un dysfonctionnement, nous vous encourageons à nous le signaler afin que nous puissions le résoudre.
+
+Veuillez expliquer le problème le plus précisément possible, merci.
+
+## ⚠️ Informations requises
+
+Pour nous aider à résoudre efficacement votre problème, veuillez nous fournir :
+- 📍 Où se produit l'erreur (projet concerné)
+- 🔄 Comment la reproduire (étapes précises)
+- ❌ Ce qui se passe (comportement observé)
+- ✅ Ce qui devrait se passer (comportement attendu)
+
+## 📝 Créer un signalement
+
+Cliquez sur le bouton **[Signaler un problème](https://github.com/CyberCompanion/issues/issues/new/choose)** pour ouvrir un nouveau ticket.
+
+Nous proposons différents modèles selon le type de problème :
+- 🐛 **Bug** : Pour signaler un dysfonctionnement
+- 💡 **Suggestion** : Pour proposer une nouvelle fonctionnalité
+- 📚 **Documentation** : Pour signaler un problème dans la documentation
+- ♿ **Accessibilité** : Pour signaler un problème d'accessibilité
+
+## ⏱️ Suivi des problèmes
+
+Notre équipe examine régulièrement les signalements et vous tiendra informé(e) de l'avancement de votre ticket. Vous pouvez suivre son statut directement sur GitHub.
+
+## 🙏 Merci de contribuer !
+
+Chaque signalement nous aide à améliorer nos services. Nous apprécions grandement votre temps et vos efforts pour nous aider à offrir une meilleure expérience à tous nos utilisateurs.
